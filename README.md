@@ -5,9 +5,9 @@
 ![Static Badge](https://img.shields.io/badge/Javascipt-level%20A-green)
 ![Static Badge](https://img.shields.io/badge/HTML-level%20A-green)
 ![Static Badge](https://img.shields.io/badge/CSS-level%20B+-yellow)
+![Static Badge](https://img.shields.io/badge/Python-level%20B+-yellow)
 ![Static Badge](https://img.shields.io/badge/Java-level%20B-yellow)
-![Static Badge](https://img.shields.io/badge/PHP-level%20B+-yellow)
-![Static Badge](https://img.shields.io/badge/Python-level%20B-yellow)
+![Static Badge](https://img.shields.io/badge/PHP-level%20B-yellow)
 ![Static Badge](https://img.shields.io/badge/Bash-level%20B-yellow)
 ![Static Badge](https://img.shields.io/badge/C++-level%20C+-orange)
 
